@@ -1,0 +1,2 @@
+# Cr-ez-un-tableau-de-bord-dynamique-avec-Power-BI-pour-visualiser-l-avancement-de-projets
+📊 Projet Data Visualisation avec Power BI : création d’un tableau de bord interactif pour suivre un projet et aider à la décision. Analyse des besoins (Product Strategy Canvas), préparation des données avec Power Query, modélisation et clé unique (Project ID + Phase), détection des retards et budgets via DAX, gestion des accès par rôles.
